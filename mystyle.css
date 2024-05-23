@@ -1,0 +1,28 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black
+}
+
+th {
+    border: 1 px solid black;
+    font-weight: 900;
+    background-color: green;
+    color: white;
+}
+
+img {
+    display: inline;
+    height: 120px;
+    weight: 120px;
+    border: 4px dashed black;
+    margin: 10px ;
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+}
